@@ -197,7 +197,11 @@ header {
 
 .opacity {
     background: black;
-    opacity: 0.8;
+    background-image: url(/HomePage-main/resources/Rectangle\ 31.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
     display: flex;
     flex-direction: column;
     justify-content: center;
