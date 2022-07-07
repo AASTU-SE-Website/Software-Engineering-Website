@@ -21,3 +21,8 @@
 .fontText {
     font-size: 12px;
 }
+.navlink:hover
+{
+
+background-color: rgb(0, 225, 255);
+}

@@ -94,3 +94,8 @@ td {
         box-shadow: 0 0 5px;
     }
 }
+.navlink:hover
+{
+
+background-color: rgb(0, 225, 255);
+}
